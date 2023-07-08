@@ -1,0 +1,1 @@
+A prototype of finance tracker made for the hackathon HackRx 4.0 by Bajaj Finserv.
